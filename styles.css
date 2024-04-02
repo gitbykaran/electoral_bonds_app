@@ -2,9 +2,6 @@ header {
     visibility: hidden;
 }
 
-h3 {
-    text-align: center;
-}
 
 image {
     padding-bottom: 500px;
@@ -12,4 +9,9 @@ image {
 
 footer {
     visibility: hidden;
+}
+
+h6 {
+    text-align: center;
+    color: #36454F;
 }
