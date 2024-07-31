@@ -15,5 +15,6 @@ Electoral bonds are a financial instrument used for political donations in India
 - **Detailed Insights:** Access detailed breakdowns of donations and recipient parties.
 
 ## Screenshots 
+![Capture](https://github.com/user-attachments/assets/fee0559b-8278-4918-8545-726360794ab6)
 
 
